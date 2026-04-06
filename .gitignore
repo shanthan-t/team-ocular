@@ -25,6 +25,7 @@ project/out/
 # production
 /build
 project/build/
+project/server/dist/
 
 # misc
 .DS_Store
